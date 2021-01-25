@@ -1,1 +1,2 @@
-# physical-engine-with-statics-rectangle-and-circle
+# staticSquare
+A static square made using Matter.js physics engine
